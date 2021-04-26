@@ -2,7 +2,7 @@
 In this app you can do face recognition on `.jpg`images by providing the app with a image URL.
 
 
-This readme will be updated with more info in the upcomming push to git so stay tuned.
+This readme will be updated with more info in the upcoming commit to git so stay tuned.
 Until then you can play around with this app here: https://facerecognition-front-end-jpb.herokuapp.com
 
 ### Note
